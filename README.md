@@ -99,7 +99,7 @@ I aim to:
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your LinkedIn link)
+- LinkedIn: https://www.linkedin.com/in/kgherath/
 - Portfolio Website: (Add when ready)
 
 ---
