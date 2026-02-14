@@ -48,7 +48,6 @@ I love creating systems that:
 
 - Full-stack architecture design
 - Clean and scalable code practices
-- UI/UX engineering
 - System performance optimization
 - Real-world SaaS development
 
