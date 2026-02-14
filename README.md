@@ -18,29 +18,6 @@ I love creating systems that:
 - Improve learning experiences via digital platforms
 
 ---
-
-## 🚀 Current Projects
-
-### 🛍 ShopSphere – Social E-Commerce Platform
-A modern online shopping mall where:
-- Sellers can open unique storefronts (`/@shopname`)
-- Buyers and sellers can interact
-- Reputation systems build trust
-- Messaging & community features enhance engagement
-
-**Tech Stack:** MERN (MongoDB, Express.js, React, Node.js)
-
----
-
-### 🎓 LMS Platform (Learning Management System)
-Building a next-generation LMS focused on:
-- Better UI/UX
-- Student-centered dashboards
-- Teacher branding features
-- Performance analytics
-
-This project will be a major portfolio highlight.
-
 ---
 
 ## 🛠 Tech Stack
