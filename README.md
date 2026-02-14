@@ -41,7 +41,6 @@ I love creating systems that:
 - Git & GitHub
 - VS Code
 - Postman
-- Figma (UI Design)
 
 ---
 
